@@ -27,3 +27,6 @@ Next, run the scripts based on the type you selected.
 
 # Warning
 Gemini is not always accurate. The accuracy rate is significantly higher when using Type A. When using Type B, Gemini may occasionally give incorrect answers. This is not a mature tool—just a utility to gather the specific data I need.
+
+# Output xlsx prview
+<img width="1920" height="1080" alt="img" src="https://github.com/user-attachments/assets/157b347e-bbb3-4ba3-9cc6-2c0ca63efd40" />
